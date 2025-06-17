@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajithpemarathna
 - 👀 I’m interested in coding in python
-- 🌱 I’m currently learning MSc Data analytics
+- 🌱 I Completed a  MSc in Data analytics
 - 💞️ I’m looking to collaborate on innovative data analytics projects that challenge and expand my skills in the field.
 
 
