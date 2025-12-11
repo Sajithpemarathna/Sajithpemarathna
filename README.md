@@ -1,53 +1,89 @@
-# Hi, I'm Sajith 👋
+# Hi, I'm Sajith 👋  
+**Data Analyst & Data Engineer | SQL • Python • ETL • ML • BI Dashboards**
 
-I’m a **Data Analyst** who turns messy data into **reliable pipelines, clear dashboards, and ML-powered insights**.  
-I work across the stack—**SQL → Python → ETL → BI**—to ship analytics that improve **adoption, engagement, and ROI**.
+I build **scalable analytics workflows** end-to-end — from raw data ingestion to polished dashboards and ML-powered insights.  
+My work spans **SQL engineering, Python analytics, feature modeling, forecasting, and data storytelling** that drives measurable business impact.
 
----
-
-## What I’m focused on
-- Building **production-ready analytics pipelines** (Airflow-style orchestration, modular Python, SQL models).
-- **Experimentation & causal inference**: A/B testing, KPI design, uplift/retention analysis.
-- **ML for business**: predictive modeling, classification, **time-series forecasting** (XGBoost, LSTM).
-- **Data storytelling**: clean visualizations in **Tableau** and decision-ready narratives.
+I combine **Data Engineering + BI + Machine Learning** to help companies make faster, smarter, data-driven decisions.
 
 ---
 
-## Tech stack
-**Languages/DB**: SQL, Python, Pandas, NumPy, PostgreSQL, BigQuery  
-**ML**: scikit-learn, XGBoost, TensorFlow/Keras (LSTM), model evaluation (ROC/AUC, F1, MAPE, RMSE)  
-**Data Eng**: ETL/ELT, dbt-style modeling, data quality & validation, CI checks  
-**Analytics/BI**: Tableau, Looker Studio, GA4, A/B testing frameworks  
-**Ops**: Git/GitHub, notebooks, reproducible environments
+## 🔥 What I Do
+
+### 🏗 Data Engineering & Pipelines
+- Build **production-ready ETL/ELT pipelines** (SQL models, dbt-style structures, Delta Lake, workflow automation).  
+- Design **clean staging → analytics layers** ensuring quality, consistency, and reproducibility.
+
+### 📊 Analytics & Business Intelligence
+- Develop decision-ready dashboards in **Tableau, Looker Studio, GA4**.  
+- KPI engineering, experiment analysis, pricing insights, and cohort/retention modelling.
+
+### 🤖 Machine Learning for Business
+- Forecasting (energy, sales, inventory), classification, uplift analysis.  
+- Experience with **XGBoost, Random Forest, LSTM, MLflow tracking**.
+
+### 🧩 Experimentation & Causal Insights
+- A/B testing frameworks  
+- Uplift modelling  
+- KPI diagnostics & profitability teardown
 
 ---
 
-## Selected projects
-- **Energy Consumption Forecasting (DE, 1995–2030)**  
-  Time-series modeling (**RF/XGBoost/LSTM**) with Python & SQL to forecast national demand and support policy planning.
-- **Healthcare Risk Stratification**  
-  Decision-tree models + SQL pipelines for early risk detection and **clinician decision support**.
-- **E-commerce Sales & Segmentation**  
-  Regression/classification + **Tableau** storytelling; improved forecast accuracy and enabled targeted campaigns.
+## 🛠 Tech Stack
 
-> 👉 More projects coming. Each repo includes: `data/` sample, `notebooks/`, `src/`, `README` with metrics & decisions.
+**Languages / Databases**  
+SQL (Advanced) • Python • NumPy/Pandas • PostgreSQL • BigQuery  
+
+**ML**  
+XGBoost • Random Forest • LSTM • TensorFlow/Keras • Model evaluation (AUC, F1, MAPE, RMSE)  
+
+**Data Engineering**  
+ETL/ELT • dbt approach • PySpark (basic) • Databricks • Delta Lake • Data Quality & Validation  
+
+**Analytics / BI**  
+Tableau • Looker Studio • GA4 • Excel Advanced  
+
+**Ops & Tooling**  
+Git/GitHub • Virtual Environments • Reproducible Notebooks  
 
 ---
 
-## How I work
-- **Reproducible**: environment files, data contracts, sanity checks, and tests for pipelines/models.  
-- **Explainable**: model/performance cards (assumptions, metrics, limitations) with business implications.  
-- **Impact-first**: every chart/model ties to a **decision, KPI, or workflow**.
+## 📚 Featured Projects
+
+### 🛒 **Olist E-Commerce Analytics & Data Engineering Pipeline**  
+**Python • PostgreSQL • SQL Pipelines • Tableau • GitHub**  
+- End-to-end pipeline from raw data → staging → dimensional models.  
+- Delivered insights on revenue, customer behaviour, delivery delays.  
+🔗 GitHub: https://github.com/Sajithpemarathna/olist-ecommerce-analytics
 
 ---
 
-## Connect
-- **LinkedIn**: https://www.linkedin.com/in/sajith-pemarathna/  
-- **Portfolio (DataCamp)**: https://datacamp.com/portfolio/sajithspemarathna  
-- **Email**: sajiths.pemarathna@gmail.com
+### 🚗 **Inventory & Pricing Analytics for a Used-Car Marketplace**  
+**SQL • Python • KPI Engineering • Tableau**  
+- Identified aging stock, margin leakage, and pricing gaps.  
+- Revealed **54% unsold inventory** and actionable brand-level optimization.  
+🔗 GitHub: https://github.com/Sajithpemarathna/Inventory-business-case
 
-<!-- Optional badges: uncomment if you like -->
-<!--
-![GitHub Streak](https://streak-stats.demolab.com?user=Sajithpemarathna&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajithpemarathna&layout=compact)
--->
+---
+
+### ⚡ **Energy Consumption Forecasting in Germany (MSc Thesis)**  
+**ML (Random Forest, XGBoost, LSTM) • Python • SQL**  
+- Forecasted national energy demand to 2030 for sustainability planning.  
+- Created sector-level models and visual insight layers.
+
+---
+
+## 📈 What I’m Learning Now
+
+- Advanced dbt modelling  
+- Data warehouse architecture  
+- Time-series forecasting at scale  
+- Production orchestration with Airflow-style flows  
+
+---
+
+## 🤝 Let’s Connect
+
+📍 Based in Berlin, open to full-time roles  
+🔗 LinkedIn: https://www.linkedin.com/in/sajith-pemarathna  
+📫 Email: sajiths.pemarathna@gmail.com  
