@@ -1,89 +1,114 @@
-# Hi, I'm Sajith 👋  
-**Data Analyst & Data Engineer | SQL • Python • ETL • ML • BI Dashboards**
+<h1 align="center">✨ Hi, I'm Sajith — Turning Raw Data into Real Impact ✨</h1>
 
-I build **scalable analytics workflows** end-to-end — from raw data ingestion to polished dashboards and ML-powered insights.  
-My work spans **SQL engineering, Python analytics, feature modeling, forecasting, and data storytelling** that drives measurable business impact.
-
-I combine **Data Engineering + BI + Machine Learning** to help companies make faster, smarter, data-driven decisions.
-
----
-
-## 🔥 What I Do
-
-### 🏗 Data Engineering & Pipelines
-- Build **production-ready ETL/ELT pipelines** (SQL models, dbt-style structures, Delta Lake, workflow automation).  
-- Design **clean staging → analytics layers** ensuring quality, consistency, and reproducibility.
-
-### 📊 Analytics & Business Intelligence
-- Develop decision-ready dashboards in **Tableau, Looker Studio, GA4**.  
-- KPI engineering, experiment analysis, pricing insights, and cohort/retention modelling.
-
-### 🤖 Machine Learning for Business
-- Forecasting (energy, sales, inventory), classification, uplift analysis.  
-- Experience with **XGBoost, Random Forest, LSTM, MLflow tracking**.
-
-### 🧩 Experimentation & Causal Insights
-- A/B testing frameworks  
-- Uplift modelling  
-- KPI diagnostics & profitability teardown
+<p align="center">
+  <b>Data Analyst • Data Engineer • ML Practitioner</b><br>
+  <i>I build pipelines, dashboards, and machine learning models that help businesses move faster and smarter.</i>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-**Languages / Databases**  
-SQL (Advanced) • Python • NumPy/Pandas • PostgreSQL • BigQuery  
+I’m a **Data Analyst & Data Engineer** who loves building things that scale —  
+from **ETL pipelines** and **analytics layers**, to **ML forecasting models** and **interactive dashboards**.
 
-**ML**  
-XGBoost • Random Forest • LSTM • TensorFlow/Keras • Model evaluation (AUC, F1, MAPE, RMSE)  
+I enjoy the full journey:  
+**Data → Insights → Decisions → Business Value.**
+
+---
+
+## 🧠 What I Do Best
+
+### 🔧 Data Engineering  
+- Modular ETL/ELT workflows  
+- dbt-style SQL modeling (staging → marts)  
+- Databricks, Delta Lake, PySpark  
+- Workflow automation & data quality checks  
+
+### 📊 Analytics & BI  
+- KPI engineering, cohort behavior, funnel analysis  
+- Dashboard design in **Tableau** & **Looker Studio**  
+- Business analytics for e-commerce, inventory, and operations  
+
+### 🤖 Machine Learning  
+- Forecasting (energy, sales, demand)  
+- Classification & regression (XGBoost, LSTM)  
+- MLflow tracking, evaluation metrics  
+
+### 🎯 Experimentation  
+- A/B testing  
+- Uplift modeling  
+- ROI & causal insights  
+
+---
+
+## 🛠 Tech Toolbox
+
+**Languages / DBs**  
+`SQL` • `Python` • `PostgreSQL` • `BigQuery`  
+
+**ML / AI**  
+`XGBoost` • `Random Forest` • `LSTM` • `TensorFlow/Keras`
 
 **Data Engineering**  
-ETL/ELT • dbt approach • PySpark (basic) • Databricks • Delta Lake • Data Quality & Validation  
+`dbt-style modeling` • `ETL/ELT` • `PySpark` • `Delta Lake` • `Databricks`
 
-**Analytics / BI**  
-Tableau • Looker Studio • GA4 • Excel Advanced  
+**BI / Analytics Tools**  
+`Tableau` • `Looker Studio` • `Excel` • `GA4`
 
-**Ops & Tooling**  
-Git/GitHub • Virtual Environments • Reproducible Notebooks  
-
----
-
-## 📚 Featured Projects
-
-### 🛒 **Olist E-Commerce Analytics & Data Engineering Pipeline**  
-**Python • PostgreSQL • SQL Pipelines • Tableau • GitHub**  
-- End-to-end pipeline from raw data → staging → dimensional models.  
-- Delivered insights on revenue, customer behaviour, delivery delays.  
-🔗 GitHub: https://github.com/Sajithpemarathna/olist-ecommerce-analytics
+**Ops & Productivity**  
+`GitHub` • `Virtual Environments` • `Workflow automation`  
 
 ---
 
-### 🚗 **Inventory & Pricing Analytics for a Used-Car Marketplace**  
-**SQL • Python • KPI Engineering • Tableau**  
-- Identified aging stock, margin leakage, and pricing gaps.  
-- Revealed **54% unsold inventory** and actionable brand-level optimization.  
-🔗 GitHub: https://github.com/Sajithpemarathna/Inventory-business-case
+## 🚀 Featured Work
+
+### 🛒 **Olist E-Commerce Analytics Pipeline**  
+📌 *SQL • Python • ETL design • Tableau*  
+- Built a full analytics stack: raw → staging → dimension models  
+- Delivered insights on revenue, customer behavior & delivery delays  
+🔗 **Repo:** https://github.com/Sajithpemarathna/olist-ecommerce-analytics  
 
 ---
 
-### ⚡ **Energy Consumption Forecasting in Germany (MSc Thesis)**  
-**ML (Random Forest, XGBoost, LSTM) • Python • SQL**  
-- Forecasted national energy demand to 2030 for sustainability planning.  
-- Created sector-level models and visual insight layers.
+### 🚗 **Used-Car Inventory & Pricing Analytics**  
+📌 *SQL • Python • KPI engineering • Dashboarding*  
+- Identified aging stock, pricing gaps & margin leakage  
+- 54% unsold stock & 346+ day aging documented for action  
+🔗 **Repo:** https://github.com/Sajithpemarathna/Inventory-business-case
 
 ---
 
-## 📈 What I’m Learning Now
-
-- Advanced dbt modelling  
-- Data warehouse architecture  
-- Time-series forecasting at scale  
-- Production orchestration with Airflow-style flows  
+### ⚡ **Energy Forecasting for Germany (MSc Thesis)**  
+📌 *ML (RF/XGBoost/LSTM) • SQL • Time-series analysis*  
+- Forecasts up to 2030 supporting sustainability & policy planning  
 
 ---
 
-## 🤝 Let’s Connect
+## 🌱 Currently Learning
 
-📍 Based in Berlin, open to full-time roles  
-🔗 LinkedIn: https://www.linkedin.com/in/sajith-pemarathna  
-📫 Email: sajiths.pemarathna@gmail.com  
+- Advanced dbt patterns  
+- Workflow orchestration (Airflow-style)  
+- Scalable forecasting pipelines  
+- Behavioral analytics & uplift modeling  
+
+---
+
+## 🎨 Fun Facts About Me
+
+- I love creating **clean, story-driven dashboards**  
+- I enjoy projects where analytics directly changes business outcomes  
+- I like simplifying complex datasets into insights people *actually use*  
+- Big fan of ML models that solve practical, real-world problems  
+
+---
+
+## 🤝 Let’s Connect!
+
+📍 Berlin, Germany  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sajith-pemarathna  
+📬 **Email:** sajiths.pemarathna@gmail.com  
+
+---
+
+<h3 align="center">✨ Thanks for visiting — let's build something amazing with data! ✨</h3>
