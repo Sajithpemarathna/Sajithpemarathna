@@ -63,6 +63,19 @@ I enjoy the full journey:
 
 ## 🚀 Featured Work
 
+
+### 🛒 **Ecommerce Product Funnel Analytics (Databricks)**
+
+📌 *Databricks • PySpark • Delta Lake • Tableau • SQL*
+
+End-to-end Lakehouse pipeline using Databricks & Spark to process incremental ecommerce events.
+Implements Landing → Bronze → Silver → Gold layers with daily job orchestration and
+business-ready funnel & product metrics for Tableau dashboards.
+
+🔗 **Repo:** https://github.com/Sajithpemarathna/ecommerce-product-funnel-analytics-databricks
+
+---
+
 ### 🛒 **Olist E-Commerce Analytics Pipeline**  
 📌 *SQL • Python • ETL design • Tableau*  
 - Built a full analytics stack: raw → staging → dimension models  
